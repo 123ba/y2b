@@ -2,8 +2,8 @@
 define('ROOT_PART', Root_part());
 define('APIKEY', 'AIzaSyByRWr30m-0Jo_GRqbc0euLcpS1wHU6MN8');
 define('GJ_CODE', 'US');
-define('SITE_NAME', '1mmc');
-define('TITLENAME', '1mmc');
+define('SITE_NAME', 'm1mc');
+define('TITLENAME', 'm1mc');
 define('EN2DEKEY', '32123wwerwer323tgfdgds');
 define('EMAIL', '1334347212@qq.com');
 define('NAME', 'admin123');
